@@ -1,0 +1,10 @@
+API for CodeNames App to register, join, and delete games
+
+API contains three endpoints:
+
+/gamecreate
+/gamejoin (contains gameId parameter)
+/gametakedown
+
+To run:
+java -jar /target/codenames-api-0.0.1-SNAPSHOT.jar
